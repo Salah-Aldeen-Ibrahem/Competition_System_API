@@ -14,6 +14,7 @@ namespace Assisment.Controllers
         {
             _repo = repo;
         }
+        // PAsssing code
         [HttpDelete("{id}")]
         public async Task<IActionResult> DEleteComp(int id)
         {
