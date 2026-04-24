@@ -26,7 +26,6 @@ The Competition Management API provides a backend system to organize and manage 
 | Language | C# |
 | Framework | ASP.NET Core Web API |
 | Architecture | RESTful API |
-| Database | (your database here) |
 
 ---
 
